@@ -4,6 +4,8 @@
 
 ### 🚀 Full Stack Developer | 🎯 Aspiring Cisco Engineer
 
+<img src="https://komarev.com/ghpvc/?username=shekh_khwaja20&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+%26+Backend+Specialist;Open+Source+Contributor;Future+Cisco+Engineer;Always+Learning+New+Tech" />
 
 </div>
@@ -12,23 +14,41 @@
 
 ## 🧠 About Me
 
+> 💡 *I believe in building things that are not just functional, but scalable, secure, and meaningful.*
+
 ```javascript
 const shekh = {
-  name: "Shekh Khwaja Julaha",
-  pronouns: "he/him",
-  role: "Full Stack Developer",
-  experience: "Building real-world web applications",
-  code: ["PHP", "JavaScript", "Python", "C++"],
-  interests: ["Backend Architecture", "Networking", "System Design"],
-  technologies: {
-    frontend: ["HTML", "CSS", "JavaScript"],
-    backend: ["PHP", "Laravel"],
-    database: ["MySQL"],
-    tools: ["Git", "GitHub", "VS Code"]
+  identity: {
+    name: "Shekh Khwaja Julaha",
+    pronouns: "he/him",
+    location: "India",
   },
-  currentFocus: "Advanced Laravel, REST APIs & Clean Architecture",
-  careerGoal: "Backend / Network Engineer at Cisco",
-  funFact: "Solves Rubik's Cube under 2 minutes"
+
+  professionalSummary: "Full Stack Developer with a strong backend mindset, focused on building secure, scalable web applications and gradually transitioning into networking and systems engineering.",
+
+  techDNA: {
+    languages: ["PHP", "JavaScript", "Python", "C++"],
+    frontend: ["HTML", "CSS", "JavaScript"],
+    backend: ["Laravel", "REST APIs", "Auth Systems"],
+    database: ["MySQL"],
+    tools: ["Git", "GitHub", "VS Code"],
+  },
+
+  mindset: [
+    "Problem-solving over memorization",
+    "Clean & readable code",
+    "Learning fundamentals deeply",
+    "Building before bragging"
+  ],
+
+  currentFocus: {
+    backend: "Advanced Laravel, API design, authentication & authorization",
+    networking: "CCNA fundamentals – routing, switching, OSI & TCP/IP",
+  },
+
+  longTermVision: "Become a Backend + Network Engineer contributing to large-scale systems at Cisco",
+
+  funFact: "Solves a Rubik's Cube in under 2 minutes 🧩"
 };
 ```
 
@@ -88,7 +108,22 @@ const shekh = {
 | PHP CRUD System    | PHP, MySQL         | ✅ Stable       |
 | Laravel E‑Commerce | Laravel, Bootstrap | 🔄 Development |
 
---
+---
+
+## 📊 GitHub Performance
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shekh_khwaja20&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shekh_khwaja20&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shekh_khwaja20&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shekh_khwaja20&theme=react-dark" />
+</p>
 
 ---
 
