@@ -88,22 +88,7 @@ const shekh = {
 | PHP CRUD System    | PHP, MySQL         | ✅ Stable       |
 | Laravel E‑Commerce | Laravel, Bootstrap | 🔄 Development |
 
----
-
-## 📊 GitHub Performance
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shekh_khwaja20&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shekh_khwaja20&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shekh_khwaja20&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shekh_khwaja20&theme=react-dark" />
-</p>
+--
 
 ---
 
