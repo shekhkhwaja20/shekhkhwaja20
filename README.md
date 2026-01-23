@@ -4,8 +4,6 @@
 
 ### 🚀 Full Stack Developer | 🎯 Aspiring Cisco Engineer
 
-<img src="https://komarev.com/ghpvc/?username=shekh_khwaja20&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+%26+Backend+Specialist;Open+Source+Contributor;Future+Cisco+Engineer;Always+Learning+New+Tech" />
 
 </div>
