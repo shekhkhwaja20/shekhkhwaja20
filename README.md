@@ -1,6 +1,14 @@
-👋 Hi, I'm Shekh Khwaja Julaha
-🚀 Full Stack Developer | 🎯 Aspiring Cisco Engineer
-🧠 About Me
+h1 align="center">👋 Hi, I'm <b>Shekh Khwaja Julaha</b></h1>
+
+<div align="center">
+
+<h3>🚀 Full Stack Developer | 🎯 Aspiring Cisco Engineer</h3>
+
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+%26+Backend+Specialist;Open+Source+Contributor;Future+Cisco+Engineer;Always+Learning+New+Tech"
+/>
+
+</div>
 const shekh = {
   name: "Shekh Khwaja Julaha",
   pronouns: "he/him",
