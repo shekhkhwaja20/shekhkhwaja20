@@ -114,3 +114,150 @@ CCNA Networking               ██████░░░░░░ 60%
 “First, solve the problem. Then, write the code.”
 
 <h3 align="center">⭐ Web → Backend → Networking → Cisco ⭐</h3> ```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Tic Tac Toe</title>
+
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    background: #0f172a;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  .container {
+    text-align: center;
+  }
+
+  h1 {
+    margin-bottom: 15px;
+  }
+
+  .game {
+    display: grid;
+    grid-template-columns: repeat(3, 100px);
+    gap: 10px;
+    margin: 20px auto;
+  }
+
+  .cell {
+    width: 100px;
+    height: 100px;
+    background: #1e293b;
+    font-size: 2.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+
+  .cell:hover {
+    background: #334155;
+  }
+
+  #status {
+    margin: 10px 0;
+    font-size: 18px;
+  }
+
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background: #22c55e;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+
+  button:hover {
+    background: #16a34a;
+  }
+</style>
+</head>
+
+<body>
+
+<div class="container">
+  <h1>❌⭕ Tic Tac Toe</h1>
+
+  <div class="game">
+    <div class="cell" data-i="0"></div>
+    <div class="cell" data-i="1"></div>
+    <div class="cell" data-i="2"></div>
+    <div class="cell" data-i="3"></div>
+    <div class="cell" data-i="4"></div>
+    <div class="cell" data-i="5"></div>
+    <div class="cell" data-i="6"></div>
+    <div class="cell" data-i="7"></div>
+    <div class="cell" data-i="8"></div>
+  </div>
+
+  <div id="status"></div>
+  <button onclick="restart()">Restart Game</button>
+</div>
+
+<script>
+  const cells = document.querySelectorAll(".cell");
+  const statusText = document.getElementById("status");
+
+  let board = ["","","","","","","","",""];
+  let currentPlayer = "X";
+  let active = true;
+
+  const winPatterns = [
+    [0,1,2],[3,4,5],[6,7,8],
+    [0,3,6],[1,4,7],[2,5,8],
+    [0,4,8],[2,4,6]
+  ];
+
+  cells.forEach(cell => {
+    cell.addEventListener("click", () => {
+      const i = cell.dataset.i;
+      if (board[i] !== "" || !active) return;
+
+      board[i] = currentPlayer;
+      cell.innerText = currentPlayer;
+
+      check();
+    });
+  });
+
+  function check() {
+    for (let p of winPatterns) {
+      const [a,b,c] = p;
+      if (board[a] && board[a] === board[b] && board[a] === board[c]) {
+        statusText.innerText = `🎉 Player ${currentPlayer} Wins`;
+        active = false;
+        return;
+      }
+    }
+
+    if (!board.includes("")) {
+      statusText.innerText = "😐 Draw";
+      active = false;
+      return;
+    }
+
+    currentPlayer = currentPlayer === "X" ? "O" : "X";
+  }
+
+  function restart() {
+    board = ["","","","","","","","",""];
+    cells.forEach(c => c.innerText = "");
+    currentPlayer = "X";
+    active = true;
+    statusText.innerText = "";
+  }
+</script>
+
+</body>
+</html>
