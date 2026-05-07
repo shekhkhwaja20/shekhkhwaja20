@@ -1,7 +1,8 @@
-<!-- ===================== CISCO THEMED BANNER ===================== -->
+# <!-- ===================== CISCO THEMED BANNER ===================== -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:003366&height=230&section=header&text=Future%20Cisco%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:003366&height=230&section=header&text=Future%20Cisco%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlign=50"
+    alt="Banner"
   />
 </p>
 
@@ -14,12 +15,13 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=Building+Scalable+Web+Applications;Laravel+%7C+REST+APIs+%7C+MySQL;Backend+%26+Networking+Enthusiast;CCNA+Learner;Future+Cisco+Engineer"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=Building+Scalable+Web+Applications;Laravel+%7C+PHP+%7C+JavaScript;REST+APIs+%7C+Database+Design;Pursuing+CCNA+Networking"
+    alt="Typing Animation"
   />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shekhkhwaja20&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=shekhkhwaja20&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -67,51 +69,99 @@ const shekh = {
   ],
   careerGoal: "Backend / Network Engineer at Cisco"
 };
-🛠️ Tech Stack
-🌐 Frontend
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
 <p><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /></p>
-⚙️ Backend & APIs
+
+### ⚙️ Backend & APIs
 <p><img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" /></p>
-💻 Programming Languages
+
+### 💻 Programming Languages
 <p><img src="https://skillicons.dev/icons?i=php,js,python,cpp&theme=dark" /></p>
-🧰 Tools & Database
+
+### 🧰 Tools & Database
 <p><img src="https://skillicons.dev/icons?i=git,github,vscode,mysql&theme=dark" /></p>
-📌 Featured Projects
-🎮 Game Development
-Project	Tech Stack	Highlights
-🐍 Snake Game	HTML, CSS, JS	Smooth controls, scoring
-❌⭕ Tic Tac Toe	JS, CSS	AI + 2 Player mode
-🎯 Multiplayer Games	Laravel, Vue	Auth, APIs, Leaderboards
-🌐 Web Applications
-Project	Tech Stack	Status
-Portfolio Website	HTML, CSS, JS	✅ Live
-PHP CRUD System	PHP, MySQL	✅ Stable
-Laravel E-Commerce	Laravel	🔄 In Progress
-🎯 Learning Roadmap (Cisco-Oriented)
+
+---
+
+## 📌 Featured Projects
+
+### 🎮 Game Development
+| Project | Tech Stack | Highlights |
+|---------|-----------|-----------|
+| 🐍 Snake Game | HTML, CSS, JS | Smooth controls, scoring |
+| ❌⭕ Tic Tac Toe | JS, CSS | AI + 2 Player mode |
+| 🎯 Multiplayer Games | Laravel, Vue | Auth, APIs, Leaderboards |
+
+### 🌐 Web Applications
+| Project | Tech Stack | Status |
+|---------|-----------|--------|
+| Portfolio Website | HTML, CSS, JS | ✅ Live |
+| PHP CRUD System | PHP, MySQL | ✅ Stable |
+| Laravel E-Commerce | Laravel | 🔄 In Progress |
+
+---
+
+## 🎯 Learning Roadmap (Cisco-Oriented)
+
+```
 Laravel Advanced Concepts     ██████████░░ 90%
 REST API & Authentication    █████████░░░ 85%
 JavaScript (ES6+)             ████████░░░░ 80%
 MySQL & DB Design             ████████░░░░ 80%
 Git & Open Source             █████████░░░ 88%
 CCNA Networking               ██████░░░░░░ 60%
+```
 
-🧠 Engineering Philosophy
+---
 
-⚙️ Build systems, not just projects
+## 🧠 Engineering Philosophy
 
-🔐 Security > shortcuts
+- ⚙️ **Build systems, not just projects**
+- 🔐 **Security > shortcuts**
+- 📐 **Architecture before code**
+- 🧠 **Fundamentals over frameworks**
 
-📐 Architecture before code
+---
 
-🧠 Fundamentals over frameworks
+## 📊 GitHub Stats
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shekhkhwaja20&show_icons=true&theme=tokyonight" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shekhkhwaja20&theme=tokyonight" height="160"/> </p>
-📫 Professional Contact
-<p align="center"> <a href="mailto:khwajajulaha122@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail&theme=dark" /> </a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/shekh-khwaja-266a7533a/"> <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /> </a> &nbsp;&nbsp; <a href="https://github.com/shekhkhwaja20"> <img src="https://skillicons.dev/icons?i=github&theme=dark" /> </a> </p> <p align="center"> 📧 <b>Email:</b> khwajajulaha122@gmail.com<br> 💼 <b>LinkedIn:</b> shekh-khwaja<br> 🧑‍💻 <b>GitHub:</b> shekhkhwaja20<br> 📱 <b>Contact:</b> +91 79875 00455 </p> <p align="center"> <i>Open to backend, full-stack & networking-oriented opportunities.</i> </p>
-⚡ Dev Quote
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shekhkhwaja20&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shekhkhwaja20&theme=tokyonight" height="160"/>
+</p>
 
-“First, solve the problem. Then, write the code.”
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shekhkhwaja20&layout=compact&theme=tokyonight" />
+</p>
 
-<h3 align="center">⭐ Web → Backend → Networking → Cisco ⭐</h3> ```
+---
 
+## 📫 Professional Contact
+
+<p align="center">
+  <a href="mailto:khwajajulaha122@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shekh-khwaja-261968286/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/shekhkhwaja20">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+## ⚡ Dev Quote
+
+> **"First, solve the problem. Then, write the code."**
+
+<h3 align="center">⭐ Web → Backend → Networking → Cisco ⭐</h3>
